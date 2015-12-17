@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GATidwell]]></title>
         <description><![CDATA[GATidwell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gatidwell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 04:36:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 04:37:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gatidwell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/gatidwell/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e65d9d69-8193-4f0b-8197-e58a94aa5612</guid>
-            <pubDate>Thu, 17 Dec 2015 04:36:58 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 04:37:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
