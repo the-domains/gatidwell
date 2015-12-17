@@ -1,0 +1,28 @@
+name: GATidwell
+favicon: null
+layout_spectrum: 0.8477272179443389
+typography_spectrum: 0.44109616964124143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1974724568426609
+  lightness: 0.3824714752845466
+  saturation: 0.7749252545181662
+  rhythmicContrast: 0.17598853935487568
+purpose: []
